@@ -38,4 +38,3 @@ Note you'll need some testnet funds in your wallet to deploy the contract. You c
 npx hardhat run --network mumbai .\scripts\deploy.js
 ```
 
-More info and solidity tutorials on my blog at https://jamesbachini.com
